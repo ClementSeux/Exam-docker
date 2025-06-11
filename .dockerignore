@@ -1,0 +1,15 @@
+# Binaires, IDE, logs
+app
+*.exe
+*.out
+*.log
+
+# Modules docker
+Dockerfile*
+docker-compose*.yml
+
+# Système et VCS
+.git
+.idea
+
+.env
